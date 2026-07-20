@@ -65,8 +65,8 @@ Curso: Visualização de Dados e Business Intelligence.
         • os outros 2 moram: 1 londres Inglatera e 1 Monich (monique) na alemanha.
 
     * Gráfico para media salarial por cidades na América:
-     • Maiores médias Salariais Torronto (Canadá) $9.500,00 e Seattle (EUA) $8.845,33 .
-     • Menosres médias Salariais Southlake (eua) $5.760,00 e San Francisco (EUA) $3.475,56 . 
+        • Maiores médias Salariais Torronto (Canadá) $9.500,00 e Seattle (EUA) $8.845,33 .
+        • Menosres médias Salariais Southlake (eua) $5.760,00 e San Francisco (EUA) $3.475,56 . 
     
     * Gráfico para media salarial por cidades na Europa:
         • Monique (Alemanha) €10.000,00, apenas 1 funcionário.
@@ -78,3 +78,18 @@ Curso: Visualização de Dados e Business Intelligence.
     • O departamento Executivo apresenta a maior média salarial, reforçando o peso estratégico da liderança na empresa.
     • A discrepância entre cidades americanas mostra que São Francisco é um polo dominante, enquanto outras localidades têm baixa representatividade.
     • A média salarial na Europa é superior à das Américas, indicando possível diferença de custo de mão de obra entre continentes.
+
+# Tecnologias Utilizadas:
+    • Python.
+    • jupterNotebook.
+    • Pandas.
+    • MatplotLib.
+    • Seaborn.
+
+# Arquivo do projeto:
+    analise.ipynb
+    query1.sql
+    query2.sql
+    query1.csv
+    query2.csv
+    READE.md
